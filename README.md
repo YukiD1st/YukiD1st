@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YukiD1st
 - 👀 I’m interested in making some apps and possibly games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Go
 
 <!---
 YukiD1st/YukiD1st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
